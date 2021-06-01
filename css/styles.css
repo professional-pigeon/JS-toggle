@@ -1,0 +1,35 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+
+
+.box1 {
+  background-color: violet;
+  border: 4px solid black;
+  padding: 20px;
+  margin: 20px;
+}
+
+.darkBox1 {
+  background-color: rgb(70, 180, 180);
+  border: 4px solid white;
+  padding: 20px;
+  margin: 20px;
+
+}
+
+.lightMode {
+  background-color: white;
+  color: black;
+}
+
+.darkMode {
+  background-color:black;
+  color: cyan;
+
+}
